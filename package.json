@@ -17,6 +17,6 @@
     "url": "http://maxoffsky.com/"
   },
   "dependencies": {
-    "spin.js": "^2.0.1"
+    "spin.js": "lrqdo/spin.js#06015399e7e152b5c5ee8ab36af1758b9ceb0f4a"
   }
 }
